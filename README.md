@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 🤗
 
 <!--
 **Yabsram/Yabsram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Hi, I'm Yabby! Thanks for stopping by my LinkedIn page! I am a third-year student at Columbia University studying Computer Science and minoring in Applied Math.
+I love exploring the world around me, learning new things, picking up new hobbies, and my motto for life is I'll try anything at least once.
+
+Some New Things I'm Doing:
+- 🛼 I’m learning how to rollerskate
+- 📖 Currently reading "The Seven Husbands of Evelyn Hugo"
+- 💃 I’m learning how to salsa
+- 🛠️ Currently working on my fitness website project repo: fitnessProject
+- 💬 Ask me about what new recipe I whipped up recently
+
+📫 Feel free to reach me at ymaelaf@gmail.com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
+
