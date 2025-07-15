@@ -8,8 +8,8 @@ I love exploring the world around me, learning new things, picking up new hobbie
 
 Some New Things I'm Doing:
 - 🛼 I’m learning how to rollerskate
-- 📖 Currently reading "The Seven Husbands of Evelyn Hugo"
 - 💃 I’m learning how to salsa
+- 📖 Currently reading "The Seven Husbands of Evelyn Hugo"
 - 🛠️ Currently working on my fitness website project repo: fitnessProject
 - 💬 Ask me about what new recipe I whipped up recently
 
