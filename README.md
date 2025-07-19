@@ -7,20 +7,23 @@ Hi, I'm Yabby! Thanks for stopping by my LinkedIn page! I am a third-year studen
 I love exploring the world around me, learning new things, and picking up new hobbies. My motto is I'll try most anything at least once.
 
 ### Programming Languages I Use:
-Python
-Java
+Python,
+Java,
 HTML, CSS, JavaScript
-C
+C,
 C++
 
 ### Libraries and Tools:
-APIs
-Flask
-Pandas
-Matplotlib
-SQLite
-Git
-VSCode
+APIs,
+Flask,
+Bootstrap,
+Pandas,
+Matplotlib,
+Jupyter Notebook,
+Scikit-learn,
+SQLite,
+Git,
+VSCode,
 Ubuntu
 
 
