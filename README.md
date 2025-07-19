@@ -4,7 +4,7 @@
 **Yabsram/Yabsram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Hi, I'm Yabby! Thanks for stopping by my LinkedIn page! I am a third-year student at Columbia University studying Computer Science and minoring in Applied Math.
-I love exploring the world around me, learning new things, picking up new hobbies, and my motto for life is I'll try anything at least once.
+I love exploring the world around me, learning new things, and picking up new hobbies. My motto is I'll try most anything at least once.
 
 ### Programming Languages I Use:
 Python
