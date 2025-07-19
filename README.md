@@ -9,7 +9,7 @@ I love exploring the world around me, learning new things, and picking up new ho
 ### Programming Languages I Use:
 Python,
 Java,
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript,
 C,
 C++
 
