@@ -9,15 +9,19 @@ I love exploring the world around me, learning new things, and picking up new ho
 My Life's Motto: I'll try most anything at least once.
 
 ### Programming Languages I Use:
-Python Java
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python logo" title="HTML5" height="25" />
+&nbsp;  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" />
+<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html&logoColor=ffdd54" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp; 
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp; 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-C
-C++
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" />
+&nbsp;
 
 ### Libraries and Tools I Use:
 APIs,
