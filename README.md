@@ -43,7 +43,7 @@ Ubuntu
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
 - 📖 Currently reading "The Seven Husbands of Evelyn Hugo"
-- 🛠️ Currently working on my fitness website project repo: fitnessProject
+- 🛠️ Currently working on my Outfit Planner website project repo: Weather-Based-Outfit-Planner
 - 💬 Ask me about what new recipe I whipped up recently
 
 📫 Feel free to reach me at ymaelaf@gmail.com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
