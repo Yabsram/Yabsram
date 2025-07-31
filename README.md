@@ -19,8 +19,8 @@ My Life's Motto: I'll try most anything at least once.
 ### Some New Things I'm Doing 🆕:
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
-- 📖 Currently reading "The Seven Husbands of Evelyn Hugo"
-- 🛠️ Currently working on my Outfit Planner website project repo: Weather-Based-Outfit-Planner
+- 📖 Currently reading "1984"
+- 🛠️ Currently working on my Outfit Planner website project and Portfolio Project repos
 - 💬 Ask me about what new recipe I whipped up recently
 
 ### 📫 Feel free to reach me at ymaelaf@gmail.com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
