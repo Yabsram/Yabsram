@@ -21,7 +21,7 @@ My Life's Motto: I'll try most anything at least once.
 ### Some New Things I'm Doing 🆕:
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
-- 📖 Currently reading "Small Worlds" by  Caleb Azumah Nelson
+- 📖 Currently reading "Between Us, There is Verse" by Kirti Vyas
 - 🛠️ Currently working on my Portfolio Project repo
 - 💬 Ask me about what new recipe I whipped up recently
 
