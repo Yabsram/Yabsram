@@ -18,7 +18,7 @@ My Life's Motto: I'll try most anything at least once.
 
 
 
-### Some New Things I'm Doing 🆕:
+### Some 🆕 Things I'm Doing:
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
 - 📖 Currently looking for my next read!
