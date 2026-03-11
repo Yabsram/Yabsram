@@ -25,5 +25,5 @@ My Life's Motto: I'll try most anything at least once.
 - 🛠️ Just recently finished working on MolecuFind for the Schrodinger Hackathon!
 - 💬 Ask me about what new recipe I whipped up recently
 
-### 📫 Feel free to reach me at ymaelaf@gmail.com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
+### 📫 Feel free to reach me at ymaelaf [at] gmail [dot] com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
 
