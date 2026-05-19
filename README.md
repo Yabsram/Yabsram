@@ -22,7 +22,7 @@ My Life's Motto: I'll try most anything at least once.
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
 - 📖 Currently looking for my next read!
-- 🛠️ Just recently finished working on MolecuFind for the Schrodinger Hackathon!
+- 🛠️ Just recently finished working on my Gaussian Splatting 3D UI Design project!
 - 💬 Ask me about what new recipe I whipped up recently
 
 ### 📫 Feel free to reach me at ymaelaf [at] gmail [dot] com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
