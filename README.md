@@ -3,7 +3,7 @@
 <!--
 **Yabsram/Yabsram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi, I'm Yabby! Thanks for stopping by my GitHub page! I am a rising fourth-year student at Columbia University studying Computer Science and minoring in Applied Math.
+Hi, I'm Yabby! Thanks for stopping by my GitHub page! I am a fourth-year student at Columbia University studying Computer Science and minoring in Applied Math.
 I love exploring the world around me, learning new things, and picking up new hobbies. 
 
 My Life's Motto: I'll try most anything at least once.
@@ -21,8 +21,8 @@ My Life's Motto: I'll try most anything at least once.
 ### Some 🆕 Things I'm Doing:
 - 🛼 I’m learning how to rollerskate
 - 💃 I’m learning how to salsa
-- 📖 Currently looking for my next read!
-- 🛠️ Just recently finished working on my Gaussian Splatting 3D UI Design project!
+- 📖 Currently reading Streetwise: Getting to and Through Goldman Sachs by Lloyd Blankfein!
+- 🛠️ Currently looking for my next project!
 - 💬 Ask me about what new recipe I whipped up recently
 
 ### 📫 Feel free to reach me at ymaelaf [at] gmail [dot] com or [LinkedIn](https://www.linkedin.com/in/yabsra-maelaf/)
